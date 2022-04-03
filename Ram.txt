@@ -1,1 +1,2 @@
-It's an empty file. 
+It's an empty file.
+nothing
